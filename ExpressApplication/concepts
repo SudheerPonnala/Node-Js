@@ -1,0 +1,21 @@
+1.extends
+---------
+	extends is used to reduce the repeatable html code.
+	Ex:
+	index.html
+	``````````
+		extends layout
+		
+		block content
+		h1=title
+		p welcome to #{title}
+
+	layout.jade
+	```````````
+		doctype html
+		html
+		   head
+			title=title
+			link(rel="stylesheet', href="/stylesheets/style/css")
+		   body
+			block content

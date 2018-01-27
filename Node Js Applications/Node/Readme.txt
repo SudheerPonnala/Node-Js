@@ -25,4 +25,8 @@ handler.js
 	reference: https://www.youtube.com/watch?v=uoSAZ3o5QdA&index=15&list=PLC3y8-rFHvwhco_O8PS1iS9xRrdVTvSIz
 	``````````
 
+to run the application
+----------------------
+
+node app.js
 	
