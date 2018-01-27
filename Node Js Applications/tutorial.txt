@@ -1,0 +1,5 @@
+Predefined Modules
+------------------
+	1. http
+	2. url
+	3. querystring
